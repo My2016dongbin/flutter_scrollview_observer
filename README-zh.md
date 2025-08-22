@@ -1,5 +1,3 @@
-![](https://github.com/LinXunFeng/flutter_assets/raw/main/flutter_scrollview_observer/banner.png)
-
 # Flutter ScrollView Observer
 
 
