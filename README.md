@@ -1,5 +1,3 @@
-![](https://github.com/LinXunFeng/flutter_assets/raw/main/flutter_scrollview_observer/banner.png)
-
 # Flutter ScrollView Observer
 
 Language: English | [中文](https://github.com/My2016dongbin/flutter_scrollview_observer/blob/main/README-zh.md)
