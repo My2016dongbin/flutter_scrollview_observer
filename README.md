@@ -9,11 +9,6 @@ Language: English | [中文](https://github.com/fluttercandies/flutter_scrollvie
 
 This is a library of widget that can be used to listen for child widgets those are being displayed in the scroll view.
 
-## ☕ Support me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4JKVRP) [![wechat](https://img.shields.io/static/v1?label=WeChat&message=WeChat&nbsp;Pay&color=brightgreen&style=for-the-badge&logo=WeChat)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
-
-Chat: [Join WeChat group](https://mp.weixin.qq.com/s/JBbMstn0qW6M71hh-BRKzw)
 
 ## 📖 Article
 
@@ -70,10 +65,3 @@ Import `scrollview_observer` in files that it will be used:
 ```dart
 import 'package:scrollview_observer/scrollview_observer.dart';
 ```
-
-## 📚 Wiki
-
-- [Wiki Home](https://github.com/fluttercandies/flutter_scrollview_observer/wiki)
-- [1、Observing child widgets those are being displayed in the ScrollView](https://github.com/fluttercandies/flutter_scrollview_observer/wiki/1%E3%80%81Observing-child-widgets-those-are-being-displayed-in-the-ScrollView)
-- [2、Scrolling to the specified index location](https://github.com/fluttercandies/flutter_scrollview_observer/wiki/2%E3%80%81Scrolling-to-the-specified-index-location)
-- [3、Chat Observer](https://github.com/fluttercandies/flutter_scrollview_observer/wiki/3%E3%80%81Chat-Observer)
