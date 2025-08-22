@@ -8,11 +8,6 @@ Language: 中文 | [English](https://github.com/fluttercandies/flutter_scrollvie
 
 这是一个可用于监听滚动视图中正在显示的子部件的组件库。
 
-## ☕ 请我喝一杯咖啡
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4JKVRP) [![wechat](https://img.shields.io/static/v1?label=WeChat&message=微信收款码&color=brightgreen&style=for-the-badge&logo=WeChat)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
-
-微信技术交流群请看: [【微信群说明】](https://mp.weixin.qq.com/s/JBbMstn0qW6M71hh-BRKzw)
 
 ## 📖 文章
 
@@ -75,14 +70,3 @@ import 'package:scrollview_observer/scrollview_observer.dart';
 - [2、滚动到指定下标位置](https://github.com/fluttercandies/flutter_scrollview_observer/wiki/2%E3%80%81%E6%BB%9A%E5%8A%A8%E5%88%B0%E6%8C%87%E5%AE%9A%E4%B8%8B%E6%A0%87%E4%BD%8D%E7%BD%AE)
 - [3、聊天会话](https://github.com/fluttercandies/flutter_scrollview_observer/wiki/3%E3%80%81%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%AF%9D)
 
-
-
-## 🖨 关于我
-
-- GitHub: [https://github.com/LinXunFeng](https://github.com/LinXunFeng)
-- Email: [linxunfeng@yeah.net](mailto:linxunfeng@yeah.net)
-- Blogs: 
-  - 全栈行动: [https://fullstackaction.com](https://fullstackaction.com)
-  - 掘金: [https://juejin.cn/user/1820446984512392](https://juejin.cn/user/1820446984512392) 
-
-<img height="267.5" width="481.5" src="https://github.com/LinXunFeng/LinXunFeng/raw/master/static/img/FSAQR.png"/>
